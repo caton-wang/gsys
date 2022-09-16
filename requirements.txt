@@ -42,7 +42,7 @@ Jinja2==2.8
 json-encode-manager==0.0.1
 lockfile==0.12.2
 lxml==3.5.0
-Mako==1.0.4
+Mako==1.2.2
 MarkupSafe==0.23
 mimerender==0.6.0
 mysql-connector-python==2.0.4
